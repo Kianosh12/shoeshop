@@ -28,10 +28,10 @@ export const PRODUCTS: Product[] = [
     title: 'کفش پیاده‌روی آدیداس اولترابوست',
     price: 3800000,
     category: 'ورزشی',
-    image: 'https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?auto=format&fit=crop&q=80&w=800',
+    image: 'https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&q=80&w=800',
     images: [
-      'https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?auto=format&fit=crop&q=80&w=800',
-       'https://images.unsplash.com/photo-1555274175-75f4056dfd05?auto=format&fit=crop&q=80&w=800'
+      'https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&q=80&w=800',
+       'https://images.unsplash.com/photo-1587563871167-1ee9c731aef4?auto=format&fit=crop&q=80&w=800'
     ],
     colors: ['#000000', '#3b82f6'],
     sizes: [38, 39, 40, 41],
